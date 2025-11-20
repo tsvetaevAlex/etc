@@ -3,5 +3,5 @@
 ```
 small auxiliary tools and scratches
 ```
-##consoleStatusbar##<br>
+## consoleStatusbar <br>
 релизация динамического интерактивного tatus Bar  в консоли
